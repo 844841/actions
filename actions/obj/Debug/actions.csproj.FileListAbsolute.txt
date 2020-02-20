@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\actions\actions\obj\Debug\actions.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\actions\actions\obj\Debug\actions.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\actions\actions\bin\Debug\actions.exe.config
+d:\Users\Admin\source\repos\actions\actions\bin\Debug\actions.exe
+d:\Users\Admin\source\repos\actions\actions\bin\Debug\actions.pdb
+d:\Users\Admin\source\repos\actions\actions\obj\Debug\actions.exe
+d:\Users\Admin\source\repos\actions\actions\obj\Debug\actions.pdb
